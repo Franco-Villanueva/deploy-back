@@ -1,6 +1,6 @@
 const { Order, User, conn, Product, OrderItems } = require('../db');
 const { Op } = require('sequelize');
-const { format } = require('date-fns-tz');
+const { format } = require('date-fns');
 // Configura la zona horaria en español (por ejemplo, 'es-ES')
 const spanishTimeZone = 'es-ES';
 
