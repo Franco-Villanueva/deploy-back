@@ -3,7 +3,7 @@ const { emailValidator } = require('./utils/fieldsValidator');
 
 const contactController = async (req, res) => {
     const { nombre, email, telefono, mensaje } = req.body;
-    console.log("aqui email", email, nombre, telefono, mensaje);
+    
     if (!emailValidator(email)) {
         res.status(400).json({ message: 'La dirección de email no es válida' });
         return;

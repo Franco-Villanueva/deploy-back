@@ -1,6 +1,4 @@
 require('dotenv').config();
-
-const cors = require("cors");
 const mercadopago = require("mercadopago");
 const { ACCESS_TOKEN } = process.env;
 
@@ -35,7 +33,7 @@ const pagoOrder = (req, res) => {
 				response
 			});
 		}).catch(function (error) {
-			console.log(error);
+			return res.status(500).send(error);
 		});
 }
 

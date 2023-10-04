@@ -3,7 +3,6 @@ const morgan = require("morgan");
 const cors = require("cors");
 const routers = require("./routes");
 const server = express();
-
 //===MIDDLEWARES
 server.use(morgan("dev")); // Morgan con el formato "dev" para registrar las solicitudes en la consola.
 server.use(express.json()); // Express para analizar las solicitudes entrantes con formato JSON.
