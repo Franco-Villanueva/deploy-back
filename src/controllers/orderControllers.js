@@ -205,7 +205,7 @@ const updateOrderStatus = async (req, res) => {
 
   try {
     const order = await Order.findByPk(id)
-    
+    console.log(order)
     if (!order) {
       res.status(200).json("Orden no encontrada")
     }

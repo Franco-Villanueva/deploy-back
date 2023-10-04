@@ -150,7 +150,7 @@ const getUserByEmail = async (email) => {
 }
  const deleteUser = async(req,res)=>{
      const {id}=req.body
-     
+     console.log(id)
      try {
       const result = await User.destroy({
         where: {
