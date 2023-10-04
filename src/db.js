@@ -12,7 +12,6 @@ const sequelize = new Sequelize(`postgres://${DB_USER}:${DB_PASSWORD}@${DB_HOST}
             rejectUnauthorized: false,
         }
     },
-
     logging: false,
     native: false,
 });
