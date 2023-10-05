@@ -13,7 +13,7 @@ const categories = [
 ];
 
 const createCategories = async () => {
-  const promises = categories.map((cat) => Category.create({ name: cat.name.toLowerCase() }));
+  const promises = categories.map((cat) => Category.create({ id:cat.id, name: cat.name.toLowerCase() }));
   await Promise.all(promises);
 };
 
