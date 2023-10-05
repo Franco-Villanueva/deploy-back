@@ -25,7 +25,7 @@ const pagoOrder = (req, res) => {
 			"failure": "https://dev.fixershoes.com/payment/failured",
 		},
 		auto_return: "approved",
-		external_reference:`name:${name},surname:${lastName},phone:${phoneNumber},retiro:${place},cc:${dni}`,
+		external_reference:`name:${name},surname:${lastName},phone:${phoneNumber},retiro:${place},cc:${dni},totalAmount:${req.body.price}`,
 	};
 
 	mercadopago.preferences.create(preference)
