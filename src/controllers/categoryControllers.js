@@ -17,7 +17,7 @@ const getCategories = async () => {
 const getCatProducts = async (categoryName) => {
 
     const category = await Category.findOne({
-        where: { name: categoryName },
+        where: { id: categoryName },
         include: Product,
     })
 
