@@ -34,7 +34,7 @@ const products = [
   {
 
     name: "Hormas Plasticas",
-    categoryId: 3,
+    categoryId: 4,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705595/FIXERSHOES/Copia_de_image00008_ahebor.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705586/FIXERSHOES/Copia_de_image00004_eqlb4k.png"],
     description: "SON HORMAS EN MATERIAL DE PLASTICO, PERO NO TE DEJES ENGAÑAR SU COMPLICADA ESTRUCTURA TIENE LA FUERZA Y DURABILIDAD SUFICIENTE PARA MANTER LA FORMA DE TU ZAPATOS, E IMPIDEN QUE COMIENCEN A SALIR ARRUGAS POR LOS DOBLECES QUE SE REALIZAN A LA ACCION DE CAMINAR O TROTAR, SON RECOMENDABLES EN ZAPATOS DE HORMA MEDIANA ( BOTINES, TACONES Y TENIS DE DAMA).",
@@ -49,7 +49,7 @@ const products = [
   {
 
     name: "Plantillas Silicon Ergonomic Pie Plano",
-    categoryId: 4,
+    categoryId: 3,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705704/FIXERSHOES/image00011_cvmbw7.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705705/FIXERSHOES/image00020_avficn.png", "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705722/FIXERSHOES/image00071_ltoic9.png"],
     description: "SON PLANTILLAS TRANSPIRABLES, DE MATERIAL EVA TE AYUDAN A LA COMODIDAD DE LA PARTE DEL TALON Y A UNA MICRO TRANSPIRACION DE TUS PIES.SIRVEN PARA HACER DEPORTE E INCLUSO CAMINAR, SE UILIZAN MUCHO EN TENIS DEPORTIVOS.",
@@ -109,7 +109,7 @@ const products = [
   {
 
     name: "Shields Antiarrugas",
-    categoryId: 8,
+    categoryId: 9,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705715/FIXERSHOES/image00050_r2e6sl.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705716/FIXERSHOES/image00052_t22ydq.png"],
     description: "LOS SHIELD, SON SOPORTES INTERNOS, QUE NOS AYUDAN A QUE EL CALZADO NO PIERDA SU FORMA EN LA PARTE DEL EMPEINE, SON MATERIAL PLASTICO MUY MALEABLE. EIMPIDEN DE QUE ELLOS SE ARRUGEN EN EL DOBLES DEL CAMINAR (EMPEINE)",
@@ -124,7 +124,7 @@ const products = [
   {
 
     name: "Calzado Plastico",
-    categoryId: 9,
+    categoryId: 8,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705717/FIXERSHOES/image00054_fwrgky.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705721/FIXERSHOES/image00066_xwvoox.png"],
     description: "ESTE CALZADOR ES DE PASTA , ETE AYUDA A PONERTE LOS ZAPATOS CON MAS FACILILDAD EN LA PARTE DEL TALON. TOCA INCLINARSE POR LO QUE ES CORTO.",
@@ -155,7 +155,7 @@ const products = [
   },
   {
     name: "Punteras Silicona",
-    categoryId: 10,
+    categoryId: 9,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705709/FIXERSHOES/image00032_dqqxt1.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705706/FIXERSHOES/image00028_evt9d1.png"],
     description: "SON PLANTILLAS, AYUDAN PARA LA PARTE DE LA PLANTA DEL PIE EN LA ZONA INFEERIOR (LOS METATARSOS) SE UTILIZAN EN LA MAYORIA DE CALZADO PREFERIBLEMENTE EN TACONES O ZAPATOS QUE TENGAN TACON. TE DAN COMODIDAD Y SON EN MATERIAL SILICONA",
@@ -169,7 +169,7 @@ const products = [
   {
 
     name: "Reavivador De Gamuza",
-    categoryId: 8,
+    categoryId: 10,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705738/FIXERSHOES/image00117_fycba0.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705738/FIXERSHOES/image00117_fycba0.png"],
     description: "ESTE EN UN QUIMICO QUE VIENE EN SU PRESENTACION DE SPRAY O ATOMIZADOR, AYUDA A RENOVAR EL TONO DEL CALZADO SOLO EN CASO DE QUE ESTE SE ENCUENTRE UN POCO DETERIORADO, POR LO QUE ES NEUTRO NO DA TONALIDAD, NO TAPA RAPONES GRANDES,  NO EMPAREJA UN ZAPATO DESCOLORIDO, (ES SIMILAR AL LIMPIADOR EXPRESS), ES RECOMENDABLE UTILIZARLO EN NOBUCK, GAMUZA , CARNZA  Y TEXTIL.",
@@ -183,7 +183,7 @@ const products = [
   },
   {
     name: "Crema Hidratante",
-    categoryId: 8,
+    categoryId: 10,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705745/FIXERSHOES/image00142_jgeqoh.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694706962/FIXERSHOES/IMG_4130_aqzakf.jpg"],
     description: "ESTE CREMA AYUDA A HIDRATAR Y REJUVENCER  EL CUERO, SU TONALIDAD ES NEUTRA (SIRVE PARA TODOS LOS COLORES),  TAPAS RASPONES SOLO EN CASO DE QUE SU CALZADO NO SE ENCUENTRE DESCOLORIDO. ES RECOMENDABLE SOLO PARA EL CUERO QUE TENGA SU CONTEXTURA LISA.",
@@ -230,7 +230,7 @@ const products = [
   {
 
     name: "Horma Cedro Madera",
-    categoryId: 3,
+    categoryId: 4,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705734/FIXERSHOES/image00110_hy4dgj.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705734/FIXERSHOES/image00110_hy4dgj.png"],
     description: "SON HORMAS EN MATERIAL DE MADERA DE CEDRO, MUY BUEN MATERIAL Y RESITENTE PARA  MANTENER LA FORMA DE TUS ZAPATOS, ADEMAS AYUDAN A ANCHARLOS Y ALARGARLOS POR UNOS MILIMETROS E IMPIDEN QUE SE TE ARRUGEN TUS ZAPATOS. SE UTILIZAN EN HORMAS DE ZAPATOS GRANDES (ES MAS FRECUNTE EN CALZADO  DE CABALLEROS), VERBIGRACIA: BOTAS, ZAPATOS FORMALES",
@@ -247,7 +247,7 @@ const products = [
   {
 
     name: "Plantilla En Silicona Para Subir Estatura",
-    categoryId: 4,
+    categoryId: 3,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705713/FIXERSHOES/image00045_fbnsmu.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705736/FIXERSHOES/image00112_tyu2ts.png"],
     description: "Son plantillas que ayudan a subir estatura, hechas para el cuidado del talon de la parte interna del zapato",
@@ -278,7 +278,7 @@ const products = [
   {
 
     name: "Calzador Plastico Largo Doble",
-    categoryId: 9,
+    categoryId: 8,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705711/FIXERSHOES/image00040_o523tr.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705711/FIXERSHOES/image00040_o523tr.png"],
     description: "ES UN CALZADOR PLASTICO DOBLE, POR EL LARGOR DEL MISMO AYUDA A PONERTE LOS ZAPATOS CON MAS FACILIDAD EN LA PARTE DEL TALON, NO TIENES QUE INCLINARTE POR SU TAMAÑO EN LUGAR DE OTROS QUE SON MAS CORTOS.",
@@ -293,7 +293,7 @@ const products = [
   }, {
 
     name: "Plantilla En Silicona Para Damas",
-    categoryId: 4,
+    categoryId: 3,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694705710/FIXERSHOES/image00038_feamxa.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1694706965/FIXERSHOES/IMG_4132_kklhzm.jpg"],
     description: "ESTAS PLANTILLAS SON EN MATERIAL EN GEL, NOS AYUDAN A LA COMODIDAD DE LA PLANTA DEL PIE, TIENE UNA SUPERFICIE QUE SOBRESALE EN SU MITAD QUE SIRVE PARA EL PIE PLANO Y SU COMODIDAD. NO AYUDA A TRATAR EL CASO, NO OBSTANTE; LE DA COMODIDAD Y ESTABILIDAD A LA HORA DE CAMINAR, POR SU MATERIAL HERGONOMICO Y FLEXIBLE, AYUDA AL AMORIGUO Y DESCANSO DEL PIE",
@@ -323,7 +323,7 @@ const products = [
   {
 
     name: "Horma Plasticas Adaptales",
-    categoryId: 3,
+    categoryId: 4,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695330013/FIXERSHOES/ktntpbmveu1asatc03ld.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695330013/FIXERSHOES/f4mgsjb5u7rxcq8j1xi3.png"],
     description: "SON HORMAS EN MATERIAL DE PLASTICO, ADAPTABLES, DE MUY BUEN MATERIAL Y RESITENTE PARA  MANTENER LA FORMA DE TUS ZAPATOS, ADEMAS AYUDAN A ANCHARLOS Y ALARGARLOS POR UNOS MILIMETROS E IMPIDEN QUE SE TE ARRUGEN TUS ZAPATOS. SE UTILIZAN EN HORMAS DE ZAPATOS GRANDES (ES MAS FRECUNTE EN CALZADO  DE CABALLEROS), VERBIGRACIA: BOTAS, ZAPATOS FORMALES",
@@ -339,7 +339,7 @@ const products = [
   {
 
     name: "Plantillas Deportiva Transpirables",
-    categoryId: 4,
+    categoryId: 3,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695329999/FIXERSHOES/r7h0bw2jcuu5mdndpyiv.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695329999/FIXERSHOES/mmlauyqpgwkkg9atehls.png"],
     description: "SON PLANTILLAS TRANSPIRABLES, DE MATERIAL EVA TE AYUDAN A LA COMODIDAD DE LA PARTE DEL TALON Y A UNA MICRO TRANSPIRACION DE TUS PIES.SIRVEN PARA HACER DEPORTE E INCLUSO CAMINAR, SE UILIZAN MUCHO EN TENIS DEPORTIVOS.",
@@ -354,7 +354,7 @@ const products = [
   {
 
     name: "Plantillas Gel",
-    categoryId: 4,
+    categoryId: 3,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695329999/FIXERSHOES/j4no7bcehlh22h6xrdgf.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695330007/FIXERSHOES/hw1p4uhukhdokmiylbq7.png"],
     description: "ESTAS PLANTILLAS SON EN MATERIAL EN GEL, NOS AYUDAN A LA COMODIDAD DE LA PLANTA DEL PIE, TIENE UNA SUPERFICIE QUE SOBRESALE EN SU MITAD QUE SIRVE PARA EL PIE PLANO Y SU COMODIDAD. NO AYUDA A TRATAR EL CASO, NO OBSTANTE; LE DA COMODIDAD Y ESTABILIDAD A LA HORA DE CAMINAR, POR SU MATERIAL HERGONOMICO Y FLEXIBLE.",
@@ -414,7 +414,7 @@ const products = [
   {
 
     name: "Shoes Cream",
-    categoryId: 8,
+    categoryId: 10,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695330018/FIXERSHOES/fq4s3zdnip7h7rite0ve.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695330018/FIXERSHOES/qmwxgr6tht9dmvma2xho.png"],
     description: "ES UNA CREMA HIDRATANTE PARA EL CALZADO QUE AYUDA A RESTAURAR, Y A ",
@@ -444,7 +444,7 @@ const products = [
   {
 
     name: "Plantillas Silicona Sobre Medida",
-    categoryId: 4,
+    categoryId: 3,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695330001/FIXERSHOES/iqlqc6rlfvzrqxdm7ye3.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695330000/FIXERSHOES/olfraavrjg6qxyspprsz.png"],
     description: "ESTAS PLANTILLAS SOBRE MEDIDA, NOS AYUDAN A LA COMODIDAD DE LA PLANTA DEL PIE, TIENE UNA SUPERFICIE QUE SOBRESALE EN SU MITAD QUE SIRVE PARA EL PIE PLANO Y SU COMODIDAD. NO AYUDA A TRATAR EL CASO, NO OBSTANTE; LE DA COMODIDAD Y ESTABILIDAD A LA HORA DE CAMINAR, POR SU MATERIAL HERGONOMICO Y FLEXIBLE.",
@@ -460,7 +460,7 @@ const products = [
   {
 
     name: "Grasa Fina Para Cuero",
-    categoryId: 8,
+    categoryId: 9,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695330020/FIXERSHOES/cllmbwefsxyiyomp9qqk.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695330020/FIXERSHOES/xolxu47zvwywxpodprl6.png"],
     description: "GRASA FINA PARA PROTEGER Y EMBELLECER LOS ARTÍCULOS DE CUERO. PROTEGE, NUTRE, IMPERMEBIALIZA Y SUAVIZA EL CUERO. EVITA LA FORMACIÓN DE HONGOS Y EL ENVEJECIMIENTO DEL ARTÍCULO. AYUDA A PROTEGER EL CUERO EXPUESTO A LA LLUVIA.",
@@ -536,7 +536,7 @@ const products = [
   {
 
     name: "Shields Dama Antiarrugas",
-    categoryId: 7,
+    categoryId: 10,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695330004/FIXERSHOES/ruyvf9l3ywuj6ng9toan.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695330003/FIXERSHOES/w03h1bu01qhb8nxa5jkv.png"],
     description: "LOS SHIELD, SON SOPORTES INTERNOS, QUE NOS AYUDAN A QUE EL CALZADO NO PIERDA SU FORMA EN LA PARTE DEL EMPEINE, SON MATERIAL PLASTICO MUY MALEABLE. EIMPIDEN DE QUE ELLOS SE ARRUGEN EN EL DOBLES DEL CAMINAR (EMPEINE)",
@@ -551,7 +551,7 @@ const products = [
   {
 
     name: "Calzadores Plasticos Varios",
-    categoryId: 9,
+    categoryId: 8,
     firstImage: "https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695330006/FIXERSHOES/zaydsgkgclpr2xqndmja.png",
     carrouselImage: ["https://res.cloudinary.com/dgxp4c4yk/image/upload/v1695330007/FIXERSHOES/sik2t5oob9geb6vwayig.png"],
     description: "LOS SHIELD, SON SOPORTES INTERNOS, QUE NOS AYUDAN A QUE EL CALZADO NO PIERDA SU FORMA EN LA PARTE DEL EMPEINE, SON MATERIAL PLASTICO MUY MALEABLE. EIMPIDEN DE QUE ELLOS SE ARRUGEN EN EL DOBLES DEL CAMINAR (EMPEINE)",
