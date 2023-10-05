@@ -25,12 +25,12 @@ const requestPasswordReset = async (req, res) => {
             from: '"Fixer Shoes" <no-reply@fixershoes.com>',
             to: email,
             subject: 'Recuperación de contraseña',
-            text: `Haga clic en el siguiente enlace para restablecer su contraseña: https://fixershoes.com/reset/${token}`,
+            text: `Haga clic en el siguiente enlace para restablecer su contraseña: https://dev.fixershoes.com/reset/${token}`,
             html: `
                 <p>Estimado/a ${user.name},</p>
                 <p>Hemos registrado tu solicitud para restablecer tu contraseña. Si no has solicitado esta acción, te recomendamos hacer caso omiso de este mensaje.</p>
                 <p>Si, por el contrario, has solicitado recuperar tu contraseña, por favor sigue el enlace a continuación para completar el proceso:</p>
-                <p><a href="https://fixershoes.com/reset/${token}"><b>Enlace de Restablecimiento de Contraseña</b></a></p>
+                <p><a href="https://dev.fixershoes.com/reset/${token}"><b>Enlace de Restablecimiento de Contraseña</b></a></p>
                 <p>Si tienes alguna pregunta o necesitas asistencia adicional, no dudes en ponerte en contacto con nuestro equipo de soporte.</p>
                 <p>Gracias por confiar en nosotros.</p>
                 <p>Atentamente,</p>
